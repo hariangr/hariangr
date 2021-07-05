@@ -1,5 +1,4 @@
 ### Hi there 👋
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <details>
   <summary align="center"></summary>
